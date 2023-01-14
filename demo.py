@@ -1,1 +1,1 @@
-print("konglife")
+print("nonlife")
